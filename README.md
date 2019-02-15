@@ -1,4 +1,4 @@
-learn# Sinatra Sessions Lab - User Logins
+# Sinatra Sessions Lab - User Logins
 
 ## Introduction
 
